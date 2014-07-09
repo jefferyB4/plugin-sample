@@ -24,3 +24,4 @@ YOURLS' license, aka *"Do whatever the hell you want with it"*.
 One more thing
 --------------
 This Tool Bar is a WIP(Work in progress), and current works as it should.  It should be noted that youtube videos do not currently display, and they will soon.  Skip Ad button takes you directly to the original URL (such as a youtube video).
+Use all sample toolbar images, but create your own Skip Button Image and rename it skipad.png
